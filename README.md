@@ -1,6 +1,6 @@
 # ComfyUI Add-On
 
-Enhance your ComfyUI setup with powerful Flux models for specialized image and video generation workflows. Follow the steps below to get started!
+Enhance your ComfyUI setup with powerful Flux models for specialized image generation workflows. Follow the steps below to get started!
 
 ## Installation
 
