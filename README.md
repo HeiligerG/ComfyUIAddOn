@@ -12,10 +12,13 @@ First, download the latest ComfyUI release for Windows (NVIDIA-compatible):
 
 ### 2. Install the Manager
 
-Copy the `Manager` file from this repository and paste it into the `ComfyUI` folder:
+Copy the `Manager` folder from this repository and paste it into the `ComfyUI` folder:
 ```
 ComfyUI_windows_portable_nvidia\ComfyUI_windows_portable\ComfyUI\custom_nodes
 ```
+Restart ComfyUI if running and the manager should pop up on the right screen side.
+
+But if you want to have a realy cool Manager then install all the Nodes of the Workflow: **Refined(upscale)** and you will see.
 
 ### 3. Choose and Download Models
 
@@ -30,8 +33,13 @@ Next, download the models you’d like to work with. Here are some options:
 - **Additional Model Requirements**
   - **Text Encoders**: [Download Flux Text Encoders](https://huggingface.co/comfyanonymous/flux_text_encoders/tree/main)
   - **VAE (Variational AutoEncoder)**: [Download VAE](https://huggingface.co/black-forest-labs/FLUX.1-schnell/tree/main/vae)
+ 
+### 4. Upscale Models
 
-### 4. Example Workflows
+- **RealESRGAN**: [Download Real-ESRGAN](https://huggingface.co/ai-forever/Real-ESRGAN) *(.pth PyTorch-spezifisch, direkt --> Workflow: Refined(upscale))
+- **More**: (https://huggingface.co/yuvraj108c/ComfyUI-Upscaler-Onnx/tree/main) *(.onnx plattformübergreifend, optimiert --> custom Nodes)*
+
+### 5. Example Workflows
 
 In this repository, you will find example workflows specifically optimized for Flux image generation. These workflows can help you get started quickly with your projects.
 
