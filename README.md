@@ -36,8 +36,8 @@ Next, download the models you’d like to work with. Here are some options:
  
 ### 4. Upscale Models
 
-- **RealESRGAN**: [Download Real-ESRGAN](https://huggingface.co/ai-forever/Real-ESRGAN) *(.pth PyTorch-spezifisch, direkt --> Workflow: Refined(upscale))
-- **More**: (https://huggingface.co/yuvraj108c/ComfyUI-Upscaler-Onnx/tree/main) *(.onnx plattformübergreifend, optimiert --> custom Nodes)*
+- **RealESRGAN**: [Download Real-ESRGAN](https://huggingface.co/ai-forever/Real-ESRGAN) *(.pth PyTorch-spezific, direct --> Workflow: Refined(upscale))
+- **More**: [Download Collection](https://huggingface.co/yuvraj108c/ComfyUI-Upscaler-Onnx/tree/main) *(.onnx Cross-platform, optimized --> custom Nodes)*
 
 ### 5. Example Workflows
 
