@@ -45,6 +45,10 @@ In this repository, you will find example workflows specifically optimized for F
 
 ## Tutorials and Resources
 
+- **Resources**: [Models, VAE, Encoders](https://huggingface.co/)
+- **Resources**: [Models, Loras, Checkpoints](https://civitai.com/)
+
+
 Here are some helpful video guides to assist you with setup and usage:
 
 - **Image Generation**: [Watch on YouTube](https://www.youtube.com/watch?v=z3v55ax_PSU)
